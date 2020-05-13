@@ -1,0 +1,36 @@
+"Especie" "Bloque.A" "Arboretum" "Jardin.Carbonifero"
+"1" "Turdus ignobilis" 8 14 6
+"2" "Pygochelidon cyanoleuca" 17 17 7
+"3" "Tyrannus melancholicus" 6 0 6
+"4" "Rupornis magnirostris" 3 0 0
+"5" "Thraupis episcopus" 11 0 4
+"6" "Sicalis flaveola" 6 6 1
+"7" "Setophaga fusca " 2 1 0
+"8" "Setophaga petechia" 1 0 0
+"9" "Thraupis palmarum" 8 15 1
+"10" "Melanerpes formicivorus" 12 1 28
+"11" "Euphonia laniirostris" 2 0 0
+"12" "Troglodytes aedon" 3 0 2
+"13" "Coereba flaveola" 2 2 5
+"14" "Molothrus bonariensis" 1 1 0
+"15" "Sayornis nigricans" 2 0 0
+"16" "Pyrocephalus rubinus" 0 3 2
+"17" "Myiozetetes cayanensis" 0 3 0
+"18" "Tangara cyanicollis" 1 6 1
+"19" "Elaenia flavogaster" 0 2 1
+"20" "Tangara vitriolina" 3 2 0
+"21" "Pitangus sulphuratus" 2 6 6
+"22" "Columbina talpacoti" 0 4 5
+"23" "Amazilia saucerrottei" 0 1 1
+"24" "Zimmerius chrysops" 0 1 13
+"25" "Saltator striatipectus" 0 0 2
+"26" "Forpus conspicillatus" 0 8 4
+"27" "Stelgidopteryx ruficollis" 0 0 1
+"28" "Zenaida auriculata" 0 1 9
+"29" "Vanellus chilensis" 0 0 1
+"30" "Ortalis columbiana" 2 0 6
+"31" "Ara severus" 0 2 0
+"32" "Machetornis rixosa" 0 2 0
+"33" "Diglossa cyanea" 0 1 0
+"34" "Crotophaga ani" 0 0 10
+"35" "Melanerpes rubricapillus" 0 0 2
